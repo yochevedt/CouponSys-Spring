@@ -1,8 +1,8 @@
-package example1.service;
+package com.services;
 
 import java.util.List;
 
-import example1.model.Company;
+import com.models.*;
 
 public interface CompanyService {
 
